@@ -1,4 +1,4 @@
-USTH ICT Android Development 2025
+USTH ICT WEB APPLICATION 2025
 ========================================
 
 * **22BA13056**
